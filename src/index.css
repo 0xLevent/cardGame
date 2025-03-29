@@ -107,8 +107,8 @@ code {
 }
 
 .card {
-  width: 85px; 
-  height: 100px; 
+  width: 100px; 
+  height: 150px; 
   position: relative;
   display: flex;
   align-items: center;
