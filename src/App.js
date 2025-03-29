@@ -126,7 +126,7 @@ function App() {
     return (
       <div className="loading-container">
         <div className="loading-spinner"></div>
-        <p>Oyun yükleniyor...</p>
+        <p>Game Loading...</p>
       </div>
     );
   }
