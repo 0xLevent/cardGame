@@ -3,13 +3,13 @@ import { useState, useEffect } from "react";
 // Card images
 const cardImages = [
   "/images/img.png", "/images/img2.png", "/images/img3.png", "/images/img4.png", 
-  "/images/img5.png", "/images/img6.png", "/images/img7.png", "/images/img8.png", "/images/img9.png"
+  "/images/img5.png", "/images/img66.png", "/images/img7.png", "/images/img8.png", "/images/img9.png"
 ];
 
 // Ses efektleri
 const CARD_FLIP_SOUND = new Audio("/sounds/card-flip.mp3");
 const MATCH_SOUND = new Audio("/sounds/match.mp3");
-const VICTORY_SOUND = new Audio("/sounds/victory.mp3");
+const VICTORY_SOUND = new Audio("/sounds/vvictory.mp3");
 
 // Ses çalma fonksiyonu
 const playSound = (sound) => {
